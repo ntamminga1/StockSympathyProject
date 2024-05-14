@@ -1,2 +1,4 @@
-# StockSympathyProject
-This project is for the Erdos Summer 2024 Data Science Bootcamp.
+# Stock Sympathy Project
+## Team: Devadatta Hegde, Guanqian Wang, JinJin Zhang, Keshav Sutrave, Xue Xiao, Nathaniel Tamminga
+
+PUT PROJECT DESCRIPTION HERE
