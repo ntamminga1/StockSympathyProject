@@ -6,7 +6,7 @@
 
 The stock prices of companies in the same sector appear to respond to events with a direct correlation. The goal of this project is to build models to analyze whether this feature could be exploited to advantage in the markets. 
 
-**Stakeholders**: Investment firms and Hedge funds.
+**Stakeholders**: Private Investors, Investment firms and Hedge funds.
 
 **Key Performance Indicators (KPI)**: To be decided.
 
