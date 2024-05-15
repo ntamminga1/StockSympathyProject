@@ -10,13 +10,12 @@ The stock prices of companies in the same sector appear to respond to events wit
 
 **Key Performance Indicators (KPI)**: To be decided.
 
-**Data sets**: We will build the model using stock prices of a few companies in the following sectors.
+**Data sets**: We will build the model using the stock prices of a few companies in the following sectors.
 
-1. Cryptocurrencies
-2. Retail
-3. Banks
-4. Semiconductor
-5. A few large companies from the S and P 500 index.
-6. Pharmaceuticals and healthcare.
+1. Retail
+2. Banks
+3. Semiconductor
+4. A few large companies from the S and P 500 index.
+5. Pharmaceuticals and healthcare.
 
 We will scrape daily stock price data from `Yahoo Finance`?
