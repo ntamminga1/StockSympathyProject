@@ -1,0 +1,12 @@
+Possible Pharmaceutical Stocks:
+- Eli Lilly and Company (LLY)
+- Johnson and Johnson (JNJ)
+- AbbVie Inc. (ABBV)
+- AstraZeneca PLC (AZN)
+- Novartis AG (NVS)
+- CVS Health (CVS)
+- Walgreens Boots Alliance (WBA)
+- Novo Nordisk (NVO)
+- Pfizer Inc. (PFE)
+- Trulieve Cannais Corp. (TCNNF)
+- Merck & Co. Inc. (MRK)
