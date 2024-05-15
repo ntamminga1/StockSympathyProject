@@ -1,0 +1,10 @@
+NVDA	NVIDIA Corporation	
+TSM	Taiwan Semiconductor Manufacturing Company Limited
+AVGO	Broadcom Inc.	
+ASML	ASML Holding N.V.	
+AMD	Advanced Micro Devices, Inc.	
+QCOM	QUALCOMM Incorporated	
+AMAT	Applied Materials, Inc.	
+TXN	Texas Instruments Incorporated	
+MU	Micron Technology, Inc.	
+INTC	Intel Corporation	
