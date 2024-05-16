@@ -1,0 +1,17 @@
+Airline sector (USA):
+
+Notes:
+- Can add international airlines, or pair with other travel related stocks (if more needed)
+
+UAL: United airlines holdings inc
+AAL: American airlines group inc
+DAL: Delta air lines inc
+LUV: Southwest airlines co
+ALK: Alaska air group
+JBLU: JetBlue airways corp
+RYAAY: Ryanair holdings plc
+ULCC: Frontier Group holdings inc
+SAVE: Spirit Airlines inc
+SNCY: Sun country airlines holding
+
+
