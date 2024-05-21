@@ -21,5 +21,6 @@ The stock prices of companies in the same sector appear to respond to events wit
 3. Semiconductor
 4. A few large companies from the S and P 500 index.
 5. Pharmaceuticals and healthcare.
+6. Airlines
 
 We will scrape daily stock price data from `Yahoo Finance`?
