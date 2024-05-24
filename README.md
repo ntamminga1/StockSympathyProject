@@ -26,4 +26,4 @@ The stock prices of companies in the same sector appear to respond to events wit
 We will scrape daily stock price data from `Yahoo Finance`.
 
 **Modeling Approach**:
-Fill in here after 5/24 meeting.
+See the attached file named Proposed model approach.
