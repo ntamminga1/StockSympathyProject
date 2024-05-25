@@ -5,7 +5,7 @@ Internet Content & Information sector:
 
 GOOG : Alphabet Inc.
 META: Mat Platforms Inc.
-NFLX: Netflix Inc.
-TMUS: T-mobile US,Inc.
-DIS: The Walt Disney Company, Inc.
-VZ: Verizon Communication Inc.
+SPOT: SPOT Spotify Technology S.A.
+DASH: DoorDash,Inc.
+PINS: Pinterest Inc.
+SNAP: SNAP Inc.
