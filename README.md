@@ -19,7 +19,7 @@ The stock prices of companies in the same sector appear to respond to events wit
 1. Retail
 2. Banks
 3. Semiconductor
-4. A few large companies from the S and P 500 index.
+4. Internet
 5. Pharmaceuticals and healthcare.
 6. Airlines
 
