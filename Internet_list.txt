@@ -6,6 +6,10 @@ Internet Content & Information sector:
 GOOG : Alphabet Inc.
 META: Mat Platforms Inc.
 SPOT: Spotify Technology S.A.
-DASH: DoorDash,Inc.
 PINS: Pinterest Inc.
 SNAP: SNAP Inc.
+TWLO: Twilo Inc.
+MTCH: Match Group, Inc.
+YNDX: Yandex N.V.
+IAC: IAC Inc.
+YELP: Yelp Inc.
