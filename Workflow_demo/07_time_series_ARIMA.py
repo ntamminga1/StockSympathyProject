@@ -37,7 +37,7 @@ allc2hReturn = []
 
 for filepath in file_paths:
     
-    df = pd.read_csv(filepath)
+    df = pd.read_csv(f'../data/Retail/{filepath}')
     
     df['Previous_close'] = df['Close'].shift(1)
     
