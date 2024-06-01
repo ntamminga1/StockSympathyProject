@@ -27,3 +27,13 @@ We will scrape daily stock price data from `Yahoo Finance`.
 
 **Modeling Approach**:
 See the attached file named Proposed model approach.
+
+**Repository Organization**
+This repo is organized as follows:
+- data: subdirectory containing the data used for this project
+- EDA_demo: subdirectory containing the python scripts used to acquire and format the data for analysis
+- SectorStockList: subdirectory containing the text files listing the stocks we will look at in each sector
+- SectorSummaries: subdirectory containing the summaries of exploring sympathy play in each of our respective stock sectors
+- Workflow_demo: subdirectory containing the python scripts of our different forecasting models. These scripts were used to generate the plots used in our analysis of sympathy play.
+- Proposed_modeling_approach: This file comes in both a word document and a markdown file. These files explain our approach to modelling and analyzing sympathy play as a valid investment strategy.
+- Executive Summary: This pdf file contains a summary combining our analysis for each of the different sectors.
